@@ -18,22 +18,22 @@
 
 ## Phase 3: xv6 Scheduling
 - Scheduling Policy
-> Round Robin(changing Quantum)
-> non-preemptive priority scheduling
-> preemptive priority scheduling
+> Round Robin(changing Quantum)<br/>
+> non-preemptive priority scheduling<br/>
+> preemptive priority scheduling<br/>
 > multilayer priority queue
 - Change Policy
 - Measuring Times
-> Waiting Time
-> Turn Around Time
-> CPU Burst Time
-> Ready Time
-> Running Time
-> Termination Time
-> Creation Time
+> Waiting Time<br/>
+> Turn Around Time<br/>
+> CPU Burst Time<br/>
+> Ready Time<br/>
+> Running Time<br/>
+> Termination Time<br/>
+> Creation Time<br/>
 > Sleeping Time
 - Test
-> roundRobinTest
-> PrioritySchedTest
-> MultiLayerQueueTest
+> roundRobinTest<br/>
+> PrioritySchedTest<br/>
+> MultiLayerQueueTest<br/>
 > DynamicMultiLayerQueueTest
